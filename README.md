@@ -1,6 +1,6 @@
 # # AR_Occlusion_LightEstimation
 ### is an Android projetcs which for Occlusion and Light Estimation in AR.
-Occlusion and Lighting Estimation are, by far, the biggest pieces of the AR puzzle because it makes the biggest leap towards realism for AR experiences.
+Occlusion and Lighting Estimation are, by far, the biggest pieces of the AR puzzle because it makes the biggest leap towards realism for AR experiences.<br>
 <b> Developers: </b> Shreyas Iyer, Kushagra Khare <br>
 <b> Mentors: </b> Prof. Jaya Nair, IIIT-B <br>
 <b> Project Duration: </b> Aug 18 - Dec 18 <br>
