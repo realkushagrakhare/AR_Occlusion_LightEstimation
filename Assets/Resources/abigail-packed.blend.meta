@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 720597014006d6d46a83432fd56b860a
+timeCreated: 1538766482
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 22_-hands_0_5_2_0
+    100002: 22__boots_m1_7_0_1_0
+    100004: 22__pant_m1_3_0_0
+    100006: 22__pant_m1_3_0_0_001
+    100008: 22_body_0_5_0_0
+    100010: 22_eyeball_l_0_5_0_0
+    100012: 22_eyeball_r_0_5_0_0
+    100014: 22_face_0_5_0_0
+    100016: 22_scalp_scalp_0_3_0_0
+    100018: 23_-Hair_B_Mesh1_0_2_4_4
+    100020: 23_-wings_all_0_5_9_0
+    100022: 23_-WingsClose_L_0_5_9_0
+    100024: 23_-WingsClose_R_0_5_9_0
+    100026: 23_-WingsOpen_L_0_5_9_0
+    100028: 23_-WingsOpen_R_0_5_9_0
+    100030: 23__hair_A__hairA_0_4_5_0
+    100032: 28__cuirass2_m1_0_2_2_0
+    100034: 28__cuirass2_m1_0_2_2_0_001
+    100036: 28__cuirass_m2_0_2_2_0
+    100038: 28__cuirass_m2_0_2_2_0_001
+    100040: 28__gauntlet_m1_0_2_2_0
+    100042: 5_mouth_0_1_0_0
+    100044: 5_teethhuman_0_1_0_0
+    100046: 5_tongue_0_3_0_0
+    100048: //RootNode
+    100050: arm_left_elbow
+    100052: arm_left_finger_1a
+    100054: arm_left_finger_1b
+    100056: arm_left_finger_1c
+    100058: arm_left_finger_2a
+    100060: arm_left_finger_2b
+    100062: arm_left_finger_2c
+    100064: arm_left_finger_3a
+    100066: arm_left_finger_3b
+    100068: arm_left_finger_3c
+    100070: arm_left_finger_4a
+    100072: arm_left_finger_4b
+    100074: arm_left_finger_4c
+    100076: arm_left_finger_5a
+    100078: arm_left_finger_5b
+    100080: arm_left_finger_5c
+    100082: arm_left_shoulder_1
+    100084: arm_left_shoulder_2
+    100086: arm_left_wrist
+    100088: arm_right_elbow
+    100090: arm_right_finger_1a
+    100092: arm_right_finger_1b
+    100094: arm_right_finger_1c
+    100096: arm_right_finger_2a
+    100098: arm_right_finger_2b
+    100100: arm_right_finger_2c
+    100102: arm_right_finger_3a
+    100104: arm_right_finger_3b
+    100106: arm_right_finger_3c
+    100108: arm_right_finger_4a
+    100110: arm_right_finger_4b
+    100112: arm_right_finger_4c
+    100114: arm_right_finger_5a
+    100116: arm_right_finger_5b
+    100118: arm_right_finger_5c
+    100120: arm_right_shoulder_1
+    100122: arm_right_shoulder_2
+    100124: arm_right_wrist
+    100126: Armature
+    100128: breast_left
+    100130: breast_right
+    100132: hair_a_left
+    100134: hair_a_right
+    100136: hair_a_root
+    100138: hair_b_root
+    100140: head_neck_lower
+    100142: head_neck_upper
+    100144: leg_left_ankle
+    100146: leg_left_knee
+    100148: leg_left_thigh
+    100150: leg_left_toes
+    100152: leg_right_ankle
+    100154: leg_right_knee
+    100156: leg_right_thigh
+    100158: leg_right_toes
+    100160: root_hips
+    100162: spine1
+    100164: spine2
+    100166: unused_valvebiped_neck_item_abigail_hair_A
+    100168: unused_valvebiped_spine2_item_abigail_hair_A
+    100170: Wings_CLose_Left
+    100172: Wings_CLose_Right
+    100174: Wings_Open_Left
+    100176: Wings_Open_Right
+    400000: 22_-hands_0_5_2_0
+    400002: 22__boots_m1_7_0_1_0
+    400004: 22__pant_m1_3_0_0
+    400006: 22__pant_m1_3_0_0_001
+    400008: 22_body_0_5_0_0
+    400010: 22_eyeball_l_0_5_0_0
+    400012: 22_eyeball_r_0_5_0_0
+    400014: 22_face_0_5_0_0
+    400016: 22_scalp_scalp_0_3_0_0
+    400018: 23_-Hair_B_Mesh1_0_2_4_4
+    400020: 23_-wings_all_0_5_9_0
+    400022: 23_-WingsClose_L_0_5_9_0
+    400024: 23_-WingsClose_R_0_5_9_0
+    400026: 23_-WingsOpen_L_0_5_9_0
+    400028: 23_-WingsOpen_R_0_5_9_0
+    400030: 23__hair_A__hairA_0_4_5_0
+    400032: 28__cuirass2_m1_0_2_2_0
+    400034: 28__cuirass2_m1_0_2_2_0_001
+    400036: 28__cuirass_m2_0_2_2_0
+    400038: 28__cuirass_m2_0_2_2_0_001
+    400040: 28__gauntlet_m1_0_2_2_0
+    400042: 5_mouth_0_1_0_0
+    400044: 5_teethhuman_0_1_0_0
+    400046: 5_tongue_0_3_0_0
+    400048: //RootNode
+    400050: arm_left_elbow
+    400052: arm_left_finger_1a
+    400054: arm_left_finger_1b
+    400056: arm_left_finger_1c
+    400058: arm_left_finger_2a
+    400060: arm_left_finger_2b
+    400062: arm_left_finger_2c
+    400064: arm_left_finger_3a
+    400066: arm_left_finger_3b
+    400068: arm_left_finger_3c
+    400070: arm_left_finger_4a
+    400072: arm_left_finger_4b
+    400074: arm_left_finger_4c
+    400076: arm_left_finger_5a
+    400078: arm_left_finger_5b
+    400080: arm_left_finger_5c
+    400082: arm_left_shoulder_1
+    400084: arm_left_shoulder_2
+    400086: arm_left_wrist
+    400088: arm_right_elbow
+    400090: arm_right_finger_1a
+    400092: arm_right_finger_1b
+    400094: arm_right_finger_1c
+    400096: arm_right_finger_2a
+    400098: arm_right_finger_2b
+    400100: arm_right_finger_2c
+    400102: arm_right_finger_3a
+    400104: arm_right_finger_3b
+    400106: arm_right_finger_3c
+    400108: arm_right_finger_4a
+    400110: arm_right_finger_4b
+    400112: arm_right_finger_4c
+    400114: arm_right_finger_5a
+    400116: arm_right_finger_5b
+    400118: arm_right_finger_5c
+    400120: arm_right_shoulder_1
+    400122: arm_right_shoulder_2
+    400124: arm_right_wrist
+    400126: Armature
+    400128: breast_left
+    400130: breast_right
+    400132: hair_a_left
+    400134: hair_a_right
+    400136: hair_a_root
+    400138: hair_b_root
+    400140: head_neck_lower
+    400142: head_neck_upper
+    400144: leg_left_ankle
+    400146: leg_left_knee
+    400148: leg_left_thigh
+    400150: leg_left_toes
+    400152: leg_right_ankle
+    400154: leg_right_knee
+    400156: leg_right_thigh
+    400158: leg_right_toes
+    400160: root_hips
+    400162: spine1
+    400164: spine2
+    400166: unused_valvebiped_neck_item_abigail_hair_A
+    400168: unused_valvebiped_spine2_item_abigail_hair_A
+    400170: Wings_CLose_Left
+    400172: Wings_CLose_Right
+    400174: Wings_Open_Left
+    400176: Wings_Open_Right
+    4300000: 28__cuirass2_m1_0_2_2_0_001
+    4300002: 28__cuirass_m2_0_2_2_0_001
+    4300004: 22__pant_m1_3_0_0_001
+    4300006: 23_-WingsClose_L_0_5_9_0
+    4300008: 23_-WingsClose_R_0_5_9_0
+    4300010: 23_-WingsOpen_L_0_5_9_0
+    4300012: 23_-WingsOpen_R_0_5_9_0
+    4300014: 23_-Hair_B_Mesh1_0_2_4_4
+    4300016: 22_scalp_scalp_0_3_0_0
+    4300018: 23__hair_A__hairA_0_4_5_0
+    4300020: 23_-wings_all_0_5_9_0
+    4300022: 28__cuirass2_m1_0_2_2_0
+    4300024: 28__cuirass_m2_0_2_2_0
+    4300026: 22_-hands_0_5_2_0
+    4300028: 28__gauntlet_m1_0_2_2_0
+    4300030: 22__pant_m1_3_0_0
+    4300032: 22__boots_m1_7_0_1_0
+    4300034: 5_tongue_0_3_0_0
+    4300036: 5_mouth_0_1_0_0
+    4300038: 22_body_0_5_0_0
+    4300040: 5_teethhuman_0_1_0_0
+    4300042: 22_eyeball_l_0_5_0_0
+    4300044: 22_eyeball_r_0_5_0_0
+    4300046: 22_face_0_5_0_0
+    7400000: Default Take
+    7400002: Arma02_03_001
+    7400004: Arma02_03_002
+    7400006: Arma02_03_003
+    7400008: Arma02_03_004
+    7400010: Arma05_11
+    7400012: Arma05_12
+    7400014: Arma05_13_001
+    7400016: Arma05_13
+    7400018: Arma05_14
+    7400020: Arma05_14_001
+    7400022: Arma02_03
+    7400024: Arma08_01
+    9500000: //RootNode
+    13700000: 22_-hands_0_5_2_0
+    13700002: 22__boots_m1_7_0_1_0
+    13700004: 22__pant_m1_3_0_0
+    13700006: 22__pant_m1_3_0_0_001
+    13700008: 22_body_0_5_0_0
+    13700010: 22_eyeball_l_0_5_0_0
+    13700012: 22_eyeball_r_0_5_0_0
+    13700014: 22_face_0_5_0_0
+    13700016: 22_scalp_scalp_0_3_0_0
+    13700018: 23_-Hair_B_Mesh1_0_2_4_4
+    13700020: 23_-wings_all_0_5_9_0
+    13700022: 23_-WingsClose_L_0_5_9_0
+    13700024: 23_-WingsClose_R_0_5_9_0
+    13700026: 23_-WingsOpen_L_0_5_9_0
+    13700028: 23_-WingsOpen_R_0_5_9_0
+    13700030: 23__hair_A__hairA_0_4_5_0
+    13700032: 28__cuirass2_m1_0_2_2_0
+    13700034: 28__cuirass2_m1_0_2_2_0_001
+    13700036: 28__cuirass_m2_0_2_2_0
+    13700038: 28__cuirass_m2_0_2_2_0_001
+    13700040: 28__gauntlet_m1_0_2_2_0
+    13700042: 5_mouth_0_1_0_0
+    13700044: 5_teethhuman_0_1_0_0
+    13700046: 5_tongue_0_3_0_0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: dce993e97c2f04d4691b4bdc308bee81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: ccc726b56d8830143a8990358b320e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 632ea2dd02796d14fbb020015cefb01b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 6c097115c55817b479affdfb368d340a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 6427ed68a39e48144bcfca18a04042c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: a4f92b48c2446b24cae1dfc352f6decb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: 186218cc3a68b7e489ca49e2932efd91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 27e0affbdd6d9774db7f1a40ebc8aa30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: a0d12bd96b2439647b638bca0525ea42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: 7d2c2a02c032c664bb456760a7122fed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: 631e6673306ccd6409fa54c8d33b940d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: 4b2c8aa87bec0304daebaed26fd3e308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012
+    second: {fileID: 2100000, guid: f10b9761320e45d4c8b478bf7c576277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013
+    second: {fileID: 2100000, guid: 45a47a7086c9449479a47e47e55bbc49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: f6d3688da3e4acb44b420aa45721c5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: 59f62cc147e59d34d9c38ab511af90b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: f317061f68a9fb148b79b204db8e8501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: 258388a32dcedd840b9a24e4605dd354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: 5a6316e8c420ecd40b8326f51744b8a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: 12ae222579c414841918fe112ee367ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_020
+    second: {fileID: 2100000, guid: 46c7abfa6404a5144acee256d075de23, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -44,8 +44,10 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - Target
     - Target1
     dataSetsToActivate:
+    - Target
     - Target1
   videoBackground:
     clippingMode: 0
@@ -58,7 +60,7 @@ MonoBehaviour:
     autoInitTracker: 1
     autoStartTracker: 1
     autoInitBuilder: 1
-    sceneUnitsToMillimeter: 1
+    sceneUnitsToMillimeter: 100
   deviceTracker:
     autoInitTracker: 0
     autoStartTracker: 0
