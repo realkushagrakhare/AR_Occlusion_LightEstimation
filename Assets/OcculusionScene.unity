@@ -318,6 +318,7 @@ GameObject:
   - component: {fileID: 294893849}
   - component: {fileID: 294893848}
   - component: {fileID: 294893847}
+  - component: {fileID: 294893852}
   m_Layer: 0
   m_Name: ARCamera
   m_TagString: Untagged
@@ -348,7 +349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mWorldCenterMode: 0
-  mWorldCenter: {fileID: 0}
+  mWorldCenter: {fileID: 399825890}
 --- !u!81 &294893849
 AudioListener:
   m_ObjectHideFlags: 0
@@ -404,6 +405,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &294893852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 294893846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb78416fa37df0459d27ce3325b779f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &348219877
 GameObject:
   m_ObjectHideFlags: 0
@@ -1008,8 +1020,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1013646418}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.357, y: 0.12, z: 0.418}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_LocalPosition: {x: -0.266, y: 0.12, z: 0.375}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
   m_Children: []
   m_Father: {fileID: 348219883}
   m_RootOrder: 0
