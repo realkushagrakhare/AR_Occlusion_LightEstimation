@@ -5,7 +5,7 @@ using UnityEngine;
 public class Controller : MonoBehaviour {
 
 	// Use this for initialization
-	public float speed = 15f;
+	public float speed = 3f;
 
 	public void TranslateX(int direction) {
 		transform.Translate (Vector3.forward * direction * speed * Time.deltaTime);
