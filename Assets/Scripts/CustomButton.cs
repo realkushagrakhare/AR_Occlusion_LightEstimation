@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using Vuforia;
 
 public class CustomButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler {
 
 	public Controller playerController;
 	public int xDir = 0;
 	public int yDir = 0;
+	private bool on = true;
 
 	bool _pressed = false;
 	public void OnPointerDown(PointerEventData eventData) {
