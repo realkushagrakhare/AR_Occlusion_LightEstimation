@@ -122,6 +122,8 @@ GameObject:
   m_Component:
   - component: {fileID: 31048505}
   - component: {fileID: 31048504}
+  - component: {fileID: 31048507}
+  - component: {fileID: 31048506}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -139,7 +141,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -178,6 +180,31 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &31048506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 31048503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1542a6faf92d741893cca5ba7d7966, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  initialLightIntensity: 2
+  maxSceneIntensity: 100
+  curSceneIntensity: 0
+--- !u!114 &31048507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 31048503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9743171c0cffe44ba4e72af6ff5a817, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &60126246 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100002, guid: e985334c31bd64c8a863f8120fd57347, type: 3}
